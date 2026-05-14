@@ -1,7 +1,3 @@
-# Student Notes API README
-
-Save the following content as `README.md` in your project root.
-
 ````markdown
 # Student Notes API
 
@@ -155,6 +151,3 @@ After starting the server, open:
 ## Author
 
 Harman Dhiman
-
-```
-```
