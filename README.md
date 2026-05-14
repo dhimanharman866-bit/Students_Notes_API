@@ -152,14 +152,6 @@ After starting the server, open:
 * Error handling
 * Automatic API documentation
 
-## Future Improvements
-
-* JWT Authentication
-* PostgreSQL support
-* Docker containerization
-* Deployment on Render
-* Pagination and filtering
-
 ## Author
 
 Harman Dhiman
